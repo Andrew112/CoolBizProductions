@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WEBCIS407A_W3_iLab_Test_Working - Copy_2", ".", "{5754594A-2434-4733-9356-1DD5DBE89A10}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/CIS407A_W3_iLab"
+		Debug.AspNetCompiler.PhysicalPath = "..\WEBCIS407A_W3_iLab_Test_Working - Copy_2 - Copy\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CIS407A_W3_iLab\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CIS407A_W3_iLab"
+		Release.AspNetCompiler.PhysicalPath = "..\WEBCIS407A_W3_iLab_Test_Working - Copy_2 - Copy\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CIS407A_W3_iLab\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1305"
+		SlnRelativePath = "..\WEBCIS407A_W3_iLab_Test_Working - Copy_2 - Copy\"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E320A02-6FAF-4F04-8950-D2F43D64F7E7}"
+	ProjectSection(SolutionItems) = preProject
+		..\ETC Projects\Project-Template-master\Project-Template-master\Template\Template\Global.asax.cs = ..\ETC Projects\Project-Template-master\Project-Template-master\Template\Template\Global.asax.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5754594A-2434-4733-9356-1DD5DBE89A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5754594A-2434-4733-9356-1DD5DBE89A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981B1408-2E23-443C-A72C-084F992B9BAD}
+	EndGlobalSection
+EndGlobal
